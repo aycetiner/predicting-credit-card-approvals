@@ -25,7 +25,7 @@ A data science project where I built an automatic credit card approval predictor
 
 ## Built With
 
-Built with [![Python][python.org]][python-url]
+Built with
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
@@ -35,6 +35,5 @@ Built with [![Python][python.org]][python-url]
 ## License
 
 
-[python.org]: https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFF2E
-[python-url]: https://www.python.org/
+
 [License-img]:https://img.shields.io/badge/license-MIT-blue
