@@ -1,6 +1,6 @@
 # Predicting Credit Card Approvals
 
-![App Screenshot](https://github.com/aycetiner/house-price-prediction/blob/main/images/image_3.jpeg)
+![App Screenshot](https://github.com/aycetiner/predicting-credit-card-approvals/blob/main/images/credit_card.jpg)
 
 ## Summary
 
